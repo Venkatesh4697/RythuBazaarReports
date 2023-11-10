@@ -5,10 +5,9 @@ name: Python application
 
 on:
   schedule:
-    - cron: "2 22 * * *"
+    - cron: "35 4 * * *"
 
-  push:
-    branches: [ "master" ]
+
 
 permissions:
   contents: read
