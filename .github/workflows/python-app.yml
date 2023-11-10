@@ -4,8 +4,11 @@
 name: Python application
 
 on:
+  schedule:
+    - cron: "0 23 * * *"
+
   push:
-    branches: [ "master" ]
+    [master]
 
 permissions:
   contents: read
@@ -27,7 +30,24 @@ jobs:
             python -m pip install --upgrade pip
             if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-        
         - name: Build & run
           run: |
             python main.py
+
+        - run : |
+            ls
+            pwd
+
+        - name : Upload Artifact
+          uses: actions/upload-artifact@v3
+          with:
+            name: my-artifact
+            path: path/to/artifact/world.txt
+        
+        - name : Download Artifact
+          uses: actions/download-artifact@v3
+          with: 
+            name: my-artifact
+
+        
+
