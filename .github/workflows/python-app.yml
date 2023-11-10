@@ -8,7 +8,7 @@ on:
     - cron: "0 23 * * *"
 
   push:
-    [master]
+    branches: [ "master" ]
 
 permissions:
   contents: read
