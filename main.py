@@ -24,7 +24,7 @@ def get_prices():
 
     it = iterutils.chunked(prices, 6)
     date = str(datetime.today().strftime('%Y%m%d'))
-    with(open('prices_report_' + date + '.csv', 'w', newline='')) as csvfile:
+    with(open('prices_report' + '.csv', 'w', newline='')) as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(fields)
         writer.writerows(it)
