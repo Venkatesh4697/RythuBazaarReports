@@ -5,7 +5,7 @@ name: Python application
 
 on:
   schedule:
-    - cron: "0 23 * * *"
+    - cron: "0 22 * * *"
 
   push:
     branches: [ "master" ]
