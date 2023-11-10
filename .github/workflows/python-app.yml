@@ -42,7 +42,7 @@ jobs:
           uses: actions/upload-artifact@v3
           with:
             name: my-artifact
-            path: ${{ github.workspace }}/prices_report
+            path: ${{ github.workspace }}/prices_report.csv
         
         - name : Download Artifact
           uses: actions/download-artifact@v3
