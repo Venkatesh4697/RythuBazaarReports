@@ -1,0 +1,552 @@
+District,Rythu Bazar,Vegetable,Arrivals,LocalMarket Rate,RythuBazar Rate
+Hyderabad,Mehdipatnam,Tomato,92,24,19
+Hyderabad,Mehdipatnam,Brinjal,35,20,13
+Hyderabad,Mehdipatnam,Bhendi,66,35,28
+Hyderabad,Mehdipatnam,Green Chillies,45,40,35
+Hyderabad,Mehdipatnam,Bitter  Gourd,26,24,20
+Hyderabad,Mehdipatnam,Ribbed Gourd,51,30,23
+Hyderabad,Mehdipatnam,Cauliflower,40,24,18
+Hyderabad,Mehdipatnam,Cabbage,37,16,11
+Hyderabad,Mehdipatnam,Carrot,30,30,27
+Hyderabad,Mehdipatnam,Donda,31,20,13
+Hyderabad,Mehdipatnam,Potato,91,24,21
+Hyderabad,Mehdipatnam,Onions-I,52,45,35
+Hyderabad,Mehdipatnam,Cluster Beans,28,30,23
+Hyderabad,Mehdipatnam,Cucumber,27,20,13
+Hyderabad,Mehdipatnam,Bottle Gourd,31,12,7
+Hyderabad,Mehdipatnam,Snake Gourd,7,16,11
+Hyderabad,Mehdipatnam,Aratikaya,15,12,9
+Hyderabad,Mehdipatnam,Field Beans,23,60,55
+Hyderabad,Mehdipatnam,Colocasia(Chama),15,46,37
+Hyderabad,Mehdipatnam,Mulagakada,21,12,10
+Hyderabad,Mehdipatnam,Leafy Vegetables,108,22,20
+Hyderabad,Mehdipatnam,Kanda,1,60,50
+Hyderabad,Mehdipatnam,Beet Root,14,30,25
+Hyderabad,Mehdipatnam,Keera,34,30,23
+Hyderabad,Mehdipatnam,French Beans,21,60,55
+Hyderabad,Mehdipatnam,Others,111,22,20
+Hyderabad,Mehdipatnam,Rice,0,55,50
+Hyderabad,Mehdipatnam,Tomato-618,0,0,0
+Hyderabad,Mehdipatnam,Onions-II,0,0,0
+Medchal (Malkajgiri),Kukatpally,Tomato,123,25,19
+Medchal (Malkajgiri),Kukatpally,Brinjal,55,20,13
+Medchal (Malkajgiri),Kukatpally,Bhendi,49,35,28
+Medchal (Malkajgiri),Kukatpally,Green Chillies,62,40,35
+Medchal (Malkajgiri),Kukatpally,Bitter  Gourd,55,25,20
+Medchal (Malkajgiri),Kukatpally,Ribbed Gourd,61,30,23
+Medchal (Malkajgiri),Kukatpally,Cauliflower,68,22,18
+Medchal (Malkajgiri),Kukatpally,Cabbage,62,15,11
+Medchal (Malkajgiri),Kukatpally,Carrot,49,35,27
+Medchal (Malkajgiri),Kukatpally,Donda,68,20,13
+Medchal (Malkajgiri),Kukatpally,Potato,126,25,21
+Medchal (Malkajgiri),Kukatpally,Onions-I,32,45,35
+Medchal (Malkajgiri),Kukatpally,Cluster Beans,45,30,23
+Medchal (Malkajgiri),Kukatpally,Cucumber,52,20,13
+Medchal (Malkajgiri),Kukatpally,Bottle Gourd,79,10,7
+Medchal (Malkajgiri),Kukatpally,Snake Gourd,24,15,11
+Medchal (Malkajgiri),Kukatpally,Aratikaya,22,12,9
+Medchal (Malkajgiri),Kukatpally,Field Beans,23,65,55
+Medchal (Malkajgiri),Kukatpally,Colocasia(Chama),22,42,37
+Medchal (Malkajgiri),Kukatpally,Mulagakada,20,65,55
+Medchal (Malkajgiri),Kukatpally,Leafy Vegetables,133,25,20
+Medchal (Malkajgiri),Kukatpally,Kanda,18,40,50
+Medchal (Malkajgiri),Kukatpally,Beet Root,46,30,25
+Medchal (Malkajgiri),Kukatpally,Keera,48,30,23
+Medchal (Malkajgiri),Kukatpally,French Beans,20,65,55
+Medchal (Malkajgiri),Kukatpally,Others,213,25,20
+Medchal (Malkajgiri),Kukatpally,Rice,0,0,0
+Medchal (Malkajgiri),Kukatpally,Tomato-618,0,0,0
+Medchal (Malkajgiri),Kukatpally,Onions-II,0,0,0
+Rangareddy,Saroornagar,Tomato,24,22,19
+Rangareddy,Saroornagar,Brinjal,16,16,13
+Rangareddy,Saroornagar,Bhendi,22,33,28
+Rangareddy,Saroornagar,Green Chillies,21,40,35
+Rangareddy,Saroornagar,Bitter  Gourd,21,23,20
+Rangareddy,Saroornagar,Ribbed Gourd,15,26,23
+Rangareddy,Saroornagar,Cauliflower,16,21,18
+Rangareddy,Saroornagar,Cabbage,17,14,11
+Rangareddy,Saroornagar,Carrot,14,32,27
+Rangareddy,Saroornagar,Donda,18,16,13
+Rangareddy,Saroornagar,Potato,20,24,21
+Rangareddy,Saroornagar,Onions-I,10,60,35
+Rangareddy,Saroornagar,Cluster Beans,13,26,23
+Rangareddy,Saroornagar,Cucumber,22,16,13
+Rangareddy,Saroornagar,Bottle Gourd,15,10,7
+Rangareddy,Saroornagar,Snake Gourd,4,14,11
+Rangareddy,Saroornagar,Aratikaya,12,12,9
+Rangareddy,Saroornagar,Field Beans,14,60,55
+Rangareddy,Saroornagar,Colocasia(Chama),17,42,37
+Rangareddy,Saroornagar,Mulagakada,4,70,65
+Rangareddy,Saroornagar,Leafy Vegetables,55,23,20
+Rangareddy,Saroornagar,Kanda,7,55,50
+Rangareddy,Saroornagar,Beet Root,16,30,25
+Rangareddy,Saroornagar,Keera,22,26,23
+Rangareddy,Saroornagar,French Beans,17,60,55
+Rangareddy,Saroornagar,Others,54,20,17
+Rangareddy,Saroornagar,Rice,0,0,0
+Rangareddy,Saroornagar,Tomato-618,12,22,19
+Rangareddy,Saroornagar,Onions-II,0,0,0
+Rangareddy,Vanasthalipuram,Tomato,85,24,19
+Rangareddy,Vanasthalipuram,Brinjal,16,18,13
+Rangareddy,Vanasthalipuram,Bhendi,23,32,28
+Rangareddy,Vanasthalipuram,Green Chillies,24,40,35
+Rangareddy,Vanasthalipuram,Bitter  Gourd,10,25,20
+Rangareddy,Vanasthalipuram,Ribbed Gourd,14,28,23
+Rangareddy,Vanasthalipuram,Cauliflower,16,22,18
+Rangareddy,Vanasthalipuram,Cabbage,26,16,11
+Rangareddy,Vanasthalipuram,Carrot,12,32,27
+Rangareddy,Vanasthalipuram,Donda,18,18,13
+Rangareddy,Vanasthalipuram,Potato,37,26,21
+Rangareddy,Vanasthalipuram,Onions-I,18,60,35
+Rangareddy,Vanasthalipuram,Cluster Beans,7,28,23
+Rangareddy,Vanasthalipuram,Cucumber,15,18,13
+Rangareddy,Vanasthalipuram,Bottle Gourd,15,10,7
+Rangareddy,Vanasthalipuram,Snake Gourd,2,16,11
+Rangareddy,Vanasthalipuram,Aratikaya,9,12,9
+Rangareddy,Vanasthalipuram,Field Beans,6,60,55
+Rangareddy,Vanasthalipuram,Colocasia(Chama),3,42,37
+Rangareddy,Vanasthalipuram,Mulagakada,4,60,55
+Rangareddy,Vanasthalipuram,Leafy Vegetables,36,20,15
+Rangareddy,Vanasthalipuram,Kanda,1,55,50
+Rangareddy,Vanasthalipuram,Beet Root,7,30,25
+Rangareddy,Vanasthalipuram,Keera,12,28,23
+Rangareddy,Vanasthalipuram,French Beans,4,60,55
+Rangareddy,Vanasthalipuram,Others,33,20,15
+Rangareddy,Vanasthalipuram,Rice,0,45,40
+Rangareddy,Vanasthalipuram,Tomato-618,0,0,0
+Rangareddy,Vanasthalipuram,Onions-II,0,0,0
+Medchal (Malkajgiri),Alwal,Tomato,30,24,19
+Medchal (Malkajgiri),Alwal,Brinjal,12,18,13
+Medchal (Malkajgiri),Alwal,Bhendi,10,32,28
+Medchal (Malkajgiri),Alwal,Green Chillies,12,40,35
+Medchal (Malkajgiri),Alwal,Bitter  Gourd,10,24,20
+Medchal (Malkajgiri),Alwal,Ribbed Gourd,10,28,23
+Medchal (Malkajgiri),Alwal,Cauliflower,10,22,18
+Medchal (Malkajgiri),Alwal,Cabbage,12,16,11
+Medchal (Malkajgiri),Alwal,Carrot,14,32,27
+Medchal (Malkajgiri),Alwal,Donda,10,18,13
+Medchal (Malkajgiri),Alwal,Potato,14,26,21
+Medchal (Malkajgiri),Alwal,Onions-I,2,48,44
+Medchal (Malkajgiri),Alwal,Cluster Beans,10,28,23
+Medchal (Malkajgiri),Alwal,Cucumber,10,18,13
+Medchal (Malkajgiri),Alwal,Bottle Gourd,10,12,7
+Medchal (Malkajgiri),Alwal,Snake Gourd,2,16,11
+Medchal (Malkajgiri),Alwal,Aratikaya,2,14,9
+Medchal (Malkajgiri),Alwal,Field Beans,10,60,55
+Medchal (Malkajgiri),Alwal,Colocasia(Chama),10,42,37
+Medchal (Malkajgiri),Alwal,Mulagakada,2,60,55
+Medchal (Malkajgiri),Alwal,Leafy Vegetables,16,20,16
+Medchal (Malkajgiri),Alwal,Kanda,0,0,0
+Medchal (Malkajgiri),Alwal,Beet Root,10,30,25
+Medchal (Malkajgiri),Alwal,Keera,10,28,23
+Medchal (Malkajgiri),Alwal,French Beans,10,60,55
+Medchal (Malkajgiri),Alwal,Others,14,20,16
+Medchal (Malkajgiri),Alwal,Rice,0,0,0
+Medchal (Malkajgiri),Alwal,Tomato-618,0,0,0
+Medchal (Malkajgiri),Alwal,Onions-II,0,0,0
+Medchal (Malkajgiri),Ramakrishnapuram,Tomato,4,25,19
+Medchal (Malkajgiri),Ramakrishnapuram,Brinjal,1,18,13
+Medchal (Malkajgiri),Ramakrishnapuram,Bhendi,1,33,28
+Medchal (Malkajgiri),Ramakrishnapuram,Green Chillies,1,40,35
+Medchal (Malkajgiri),Ramakrishnapuram,Bitter  Gourd,1,25,20
+Medchal (Malkajgiri),Ramakrishnapuram,Ribbed Gourd,1,28,23
+Medchal (Malkajgiri),Ramakrishnapuram,Cauliflower,1,23,18
+Medchal (Malkajgiri),Ramakrishnapuram,Cabbage,1,16,11
+Medchal (Malkajgiri),Ramakrishnapuram,Carrot,1,32,27
+Medchal (Malkajgiri),Ramakrishnapuram,Donda,1,18,13
+Medchal (Malkajgiri),Ramakrishnapuram,Potato,2,26,21
+Medchal (Malkajgiri),Ramakrishnapuram,Onions-I,1,40,35
+Medchal (Malkajgiri),Ramakrishnapuram,Cluster Beans,1,28,23
+Medchal (Malkajgiri),Ramakrishnapuram,Cucumber,1,18,13
+Medchal (Malkajgiri),Ramakrishnapuram,Bottle Gourd,1,12,7
+Medchal (Malkajgiri),Ramakrishnapuram,Snake Gourd,0,0,0
+Medchal (Malkajgiri),Ramakrishnapuram,Aratikaya,1,12,9
+Medchal (Malkajgiri),Ramakrishnapuram,Field Beans,0,0,0
+Medchal (Malkajgiri),Ramakrishnapuram,Colocasia(Chama),1,42,37
+Medchal (Malkajgiri),Ramakrishnapuram,Mulagakada,0,0,0
+Medchal (Malkajgiri),Ramakrishnapuram,Leafy Vegetables,2,20,16
+Medchal (Malkajgiri),Ramakrishnapuram,Kanda,0,0,0
+Medchal (Malkajgiri),Ramakrishnapuram,Beet Root,1,30,25
+Medchal (Malkajgiri),Ramakrishnapuram,Keera,1,28,23
+Medchal (Malkajgiri),Ramakrishnapuram,French Beans,0,0,0
+Medchal (Malkajgiri),Ramakrishnapuram,Others,2,20,16
+Medchal (Malkajgiri),Ramakrishnapuram,Rice,0,0,0
+Medchal (Malkajgiri),Ramakrishnapuram,Tomato-618,0,0,0
+Medchal (Malkajgiri),Ramakrishnapuram,Onions-II,0,0,0
+Hyderabad,Falaknama,Tomato,80,23,19
+Hyderabad,Falaknama,Brinjal,22,17,13
+Hyderabad,Falaknama,Bhendi,18,32,28
+Hyderabad,Falaknama,Green Chillies,32,39,35
+Hyderabad,Falaknama,Bitter  Gourd,14,24,20
+Hyderabad,Falaknama,Ribbed Gourd,19,27,23
+Hyderabad,Falaknama,Cauliflower,18,22,18
+Hyderabad,Falaknama,Cabbage,22,15,11
+Hyderabad,Falaknama,Carrot,19,31,27
+Hyderabad,Falaknama,Donda,12,17,13
+Hyderabad,Falaknama,Potato,30,25,21
+Hyderabad,Falaknama,Onions-I,10,60,35
+Hyderabad,Falaknama,Cluster Beans,19,27,23
+Hyderabad,Falaknama,Cucumber,16,17,13
+Hyderabad,Falaknama,Bottle Gourd,22,11,7
+Hyderabad,Falaknama,Snake Gourd,0,15,11
+Hyderabad,Falaknama,Aratikaya,0,13,9
+Hyderabad,Falaknama,Field Beans,16,59,55
+Hyderabad,Falaknama,Colocasia(Chama),10,41,37
+Hyderabad,Falaknama,Mulagakada,11,59,55
+Hyderabad,Falaknama,Leafy Vegetables,95,16,12
+Hyderabad,Falaknama,Kanda,0,54,50
+Hyderabad,Falaknama,Beet Root,16,29,25
+Hyderabad,Falaknama,Keera,18,27,23
+Hyderabad,Falaknama,French Beans,12,59,55
+Hyderabad,Falaknama,Others,90,18,14
+Hyderabad,Falaknama,Rice,0,0,0
+Hyderabad,Falaknama,Tomato-618,0,0,0
+Hyderabad,Falaknama,Onions-II,0,0,0
+Hyderabad,Erragadda,Tomato,55,23,19
+Hyderabad,Erragadda,Brinjal,28,17,13
+Hyderabad,Erragadda,Bhendi,27,32,28
+Hyderabad,Erragadda,Green Chillies,47,40,35
+Hyderabad,Erragadda,Bitter  Gourd,21,25,20
+Hyderabad,Erragadda,Ribbed Gourd,26,27,23
+Hyderabad,Erragadda,Cauliflower,25,22,18
+Hyderabad,Erragadda,Cabbage,33,15,11
+Hyderabad,Erragadda,Carrot,25,31,27
+Hyderabad,Erragadda,Donda,27,17,13
+Hyderabad,Erragadda,Potato,68,25,21
+Hyderabad,Erragadda,Onions-I,56,40,35
+Hyderabad,Erragadda,Cluster Beans,15,27,23
+Hyderabad,Erragadda,Cucumber,16,17,13
+Hyderabad,Erragadda,Bottle Gourd,24,11,7
+Hyderabad,Erragadda,Snake Gourd,6,15,11
+Hyderabad,Erragadda,Aratikaya,15,13,9
+Hyderabad,Erragadda,Field Beans,13,60,55
+Hyderabad,Erragadda,Colocasia(Chama),15,41,37
+Hyderabad,Erragadda,Mulagakada,11,60,55
+Hyderabad,Erragadda,Leafy Vegetables,86.5,19,15
+Hyderabad,Erragadda,Kanda,7,55,50
+Hyderabad,Erragadda,Beet Root,15,30,25
+Hyderabad,Erragadda,Keera,19,27,23
+Hyderabad,Erragadda,French Beans,16,60,55
+Hyderabad,Erragadda,Others,100,25,20
+Hyderabad,Erragadda,Rice,4,45,40
+Hyderabad,Erragadda,Tomato-618,0,0,0
+Hyderabad,Erragadda,Onions-II,0,0,0
+Nizamabad,Pullanga X Road,Tomato,3.5,20,18
+Nizamabad,Pullanga X Road,Brinjal,1,10,8
+Nizamabad,Pullanga X Road,Bhendi,1,25,23
+Nizamabad,Pullanga X Road,Green Chillies,1,25,23
+Nizamabad,Pullanga X Road,Bitter  Gourd,1,25,23
+Nizamabad,Pullanga X Road,Ribbed Gourd,1,30,28
+Nizamabad,Pullanga X Road,Cauliflower,1,16,14
+Nizamabad,Pullanga X Road,Cabbage,1,10,8
+Nizamabad,Pullanga X Road,Carrot,1,25,23
+Nizamabad,Pullanga X Road,Donda,1,12,10
+Nizamabad,Pullanga X Road,Potato,1,17,15
+Nizamabad,Pullanga X Road,Onions-I,1,45,43
+Nizamabad,Pullanga X Road,Cluster Beans,1,30,28
+Nizamabad,Pullanga X Road,Cucumber,1,12,10
+Nizamabad,Pullanga X Road,Bottle Gourd,1,10,8
+Nizamabad,Pullanga X Road,Snake Gourd,0,0,0
+Nizamabad,Pullanga X Road,Aratikaya,0,0,0
+Nizamabad,Pullanga X Road,Field Beans,0,0,0
+Nizamabad,Pullanga X Road,Colocasia(Chama),0,0,0
+Nizamabad,Pullanga X Road,Mulagakada,0,0,0
+Nizamabad,Pullanga X Road,Leafy Vegetables,1,16,14
+Nizamabad,Pullanga X Road,Kanda,0,0,0
+Nizamabad,Pullanga X Road,Beet Root,0,0,0
+Nizamabad,Pullanga X Road,Keera,0,0,0
+Nizamabad,Pullanga X Road,French Beans,0,0,0
+Nizamabad,Pullanga X Road,Others,1,22,20
+Nizamabad,Pullanga X Road,Rice,0,0,0
+Nizamabad,Pullanga X Road,Tomato-618,0,0,0
+Nizamabad,Pullanga X Road,Onions-II,0,0,0
+Nizamabad,NGOs Colony,Tomato,7.5,20,18
+Nizamabad,NGOs Colony,Brinjal,1,10,8
+Nizamabad,NGOs Colony,Bhendi,1,25,23
+Nizamabad,NGOs Colony,Green Chillies,1,25,23
+Nizamabad,NGOs Colony,Bitter  Gourd,1,25,23
+Nizamabad,NGOs Colony,Ribbed Gourd,1,30,28
+Nizamabad,NGOs Colony,Cauliflower,1.5,16,14
+Nizamabad,NGOs Colony,Cabbage,1.5,10,8
+Nizamabad,NGOs Colony,Carrot,1,25,23
+Nizamabad,NGOs Colony,Donda,1.5,12,10
+Nizamabad,NGOs Colony,Potato,1.5,17,15
+Nizamabad,NGOs Colony,Onions-I,1,45,43
+Nizamabad,NGOs Colony,Cluster Beans,1,30,28
+Nizamabad,NGOs Colony,Cucumber,1.5,12,10
+Nizamabad,NGOs Colony,Bottle Gourd,1.5,10,8
+Nizamabad,NGOs Colony,Snake Gourd,0,0,0
+Nizamabad,NGOs Colony,Aratikaya,0,0,0
+Nizamabad,NGOs Colony,Field Beans,0,0,0
+Nizamabad,NGOs Colony,Colocasia(Chama),0,0,0
+Nizamabad,NGOs Colony,Mulagakada,0,0,0
+Nizamabad,NGOs Colony,Leafy Vegetables,1,16,14
+Nizamabad,NGOs Colony,Kanda,0,0,0
+Nizamabad,NGOs Colony,Beet Root,0,0,0
+Nizamabad,NGOs Colony,Keera,0,0,0
+Nizamabad,NGOs Colony,French Beans,0,0,0
+Nizamabad,NGOs Colony,Others,1.5,22,20
+Nizamabad,NGOs Colony,Rice,0,0,0
+Nizamabad,NGOs Colony,Tomato-618,0,0,0
+Nizamabad,NGOs Colony,Onions-II,0,0,0
+Adilabad,Opp: Municipal Office,Tomato,21,50,45
+Adilabad,Opp: Municipal Office,Brinjal,24,42,40
+Adilabad,Opp: Municipal Office,Bhendi,17,42,40
+Adilabad,Opp: Municipal Office,Green Chillies,15,82,80
+Adilabad,Opp: Municipal Office,Bitter  Gourd,7,72,70
+Adilabad,Opp: Municipal Office,Ribbed Gourd,5,92,90
+Adilabad,Opp: Municipal Office,Cauliflower,19,62,60
+Adilabad,Opp: Municipal Office,Cabbage,16,42,40
+Adilabad,Opp: Municipal Office,Carrot,4,72,70
+Adilabad,Opp: Municipal Office,Donda,7,52,50
+Adilabad,Opp: Municipal Office,Potato,11,30,30
+Adilabad,Opp: Municipal Office,Onions-I,16,80,80
+Adilabad,Opp: Municipal Office,Cluster Beans,4,82,80
+Adilabad,Opp: Municipal Office,Cucumber,7,42,40
+Adilabad,Opp: Municipal Office,Bottle Gourd,8,42,40
+Adilabad,Opp: Municipal Office,Snake Gourd,0,0,0
+Adilabad,Opp: Municipal Office,Aratikaya,0,0,0
+Adilabad,Opp: Municipal Office,Field Beans,32,52,50
+Adilabad,Opp: Municipal Office,Colocasia(Chama),2,72,70
+Adilabad,Opp: Municipal Office,Mulagakada,0.4,150,145
+Adilabad,Opp: Municipal Office,Leafy Vegetables,34,12,10
+Adilabad,Opp: Municipal Office,Kanda,2.5,72,70
+Adilabad,Opp: Municipal Office,Beet Root,5,50,45
+Adilabad,Opp: Municipal Office,Keera,6,32,30
+Adilabad,Opp: Municipal Office,French Beans,1.5,62,60
+Adilabad,Opp: Municipal Office,Others,34,42,40
+Adilabad,Opp: Municipal Office,Rice,0,0,0
+Adilabad,Opp: Municipal Office,Tomato-618,0,0,0
+Adilabad,Opp: Municipal Office,Onions-II,0,0,0
+Warangal,Excise Colony,Tomato,10.75,40,32
+Warangal,Excise Colony,Brinjal,3.3,48,40
+Warangal,Excise Colony,Bhendi,3.6,40,30
+Warangal,Excise Colony,Green Chillies,4.6,64,50
+Warangal,Excise Colony,Bitter  Gourd,2.6,48,40
+Warangal,Excise Colony,Ribbed Gourd,3.5,60,50
+Warangal,Excise Colony,Cauliflower,1.6,50,40
+Warangal,Excise Colony,Cabbage,1.5,48,40
+Warangal,Excise Colony,Carrot,1.9,70,64
+Warangal,Excise Colony,Donda,2.2,40,30
+Warangal,Excise Colony,Potato,3,36,28
+Warangal,Excise Colony,Onions-I,1.5,68,56
+Warangal,Excise Colony,Cluster Beans,2.3,56,48
+Warangal,Excise Colony,Cucumber,1.5,40,30
+Warangal,Excise Colony,Bottle Gourd,1.8,24,16
+Warangal,Excise Colony,Snake Gourd,0,0,0
+Warangal,Excise Colony,Aratikaya,0,0,0
+Warangal,Excise Colony,Field Beans,1.2,70,60
+Warangal,Excise Colony,Colocasia(Chama),1.6,60,50
+Warangal,Excise Colony,Mulagakada,0,0,0
+Warangal,Excise Colony,Leafy Vegetables,14.9,32,28
+Warangal,Excise Colony,Kanda,1.8,60,50
+Warangal,Excise Colony,Beet Root,1.6,56,48
+Warangal,Excise Colony,Keera,1.9,48,40
+Warangal,Excise Colony,French Beans,0.4,100,76
+Warangal,Excise Colony,Others,8.6,0,0
+Warangal,Excise Colony,Rice,0,0,0
+Warangal,Excise Colony,Tomato-618,0,0,0
+Warangal,Excise Colony,Onions-II,0,0,0
+Badradri (Kothagudem),Kothagudem(P. Stdm),Tomato,10,50,40
+Badradri (Kothagudem),Kothagudem(P. Stdm),Brinjal,12,40,30
+Badradri (Kothagudem),Kothagudem(P. Stdm),Bhendi,10,40,30
+Badradri (Kothagudem),Kothagudem(P. Stdm),Green Chillies,8,60,50
+Badradri (Kothagudem),Kothagudem(P. Stdm),Bitter  Gourd,6,50,40
+Badradri (Kothagudem),Kothagudem(P. Stdm),Ribbed Gourd,6,50,40
+Badradri (Kothagudem),Kothagudem(P. Stdm),Cauliflower,0,0,0
+Badradri (Kothagudem),Kothagudem(P. Stdm),Cabbage,2,50,40
+Badradri (Kothagudem),Kothagudem(P. Stdm),Carrot,2,65,60
+Badradri (Kothagudem),Kothagudem(P. Stdm),Donda,5,40,30
+Badradri (Kothagudem),Kothagudem(P. Stdm),Potato,5,40,30
+Badradri (Kothagudem),Kothagudem(P. Stdm),Onions-I,5,65,60
+Badradri (Kothagudem),Kothagudem(P. Stdm),Cluster Beans,2,50,40
+Badradri (Kothagudem),Kothagudem(P. Stdm),Cucumber,5,40,30
+Badradri (Kothagudem),Kothagudem(P. Stdm),Bottle Gourd,12,30,20
+Badradri (Kothagudem),Kothagudem(P. Stdm),Snake Gourd,2,30,20
+Badradri (Kothagudem),Kothagudem(P. Stdm),Aratikaya,2,15,10
+Badradri (Kothagudem),Kothagudem(P. Stdm),Field Beans,2,85,80
+Badradri (Kothagudem),Kothagudem(P. Stdm),Colocasia(Chama),1,60,50
+Badradri (Kothagudem),Kothagudem(P. Stdm),Mulagakada,2,10,6
+Badradri (Kothagudem),Kothagudem(P. Stdm),Leafy Vegetables,6,10,6
+Badradri (Kothagudem),Kothagudem(P. Stdm),Kanda,1,60,50
+Badradri (Kothagudem),Kothagudem(P. Stdm),Beet Root,1,50,40
+Badradri (Kothagudem),Kothagudem(P. Stdm),Keera,2,50,40
+Badradri (Kothagudem),Kothagudem(P. Stdm),French Beans,1,65,60
+Badradri (Kothagudem),Kothagudem(P. Stdm),Others,5,8,5
+Badradri (Kothagudem),Kothagudem(P. Stdm),Rice,1,50,35
+Badradri (Kothagudem),Kothagudem(P. Stdm),Tomato-618,0,0,0
+Badradri (Kothagudem),Kothagudem(P. Stdm),Onions-II,0,0,0
+Nalgonda,Miryalaguda(NSP Camp),Tomato,14.2,30,25
+Nalgonda,Miryalaguda(NSP Camp),Brinjal,3.2,30,25
+Nalgonda,Miryalaguda(NSP Camp),Bhendi,10.4,35,30
+Nalgonda,Miryalaguda(NSP Camp),Green Chillies,12.7,50,40
+Nalgonda,Miryalaguda(NSP Camp),Bitter  Gourd,3.4,40,35
+Nalgonda,Miryalaguda(NSP Camp),Ribbed Gourd,3.7,35,30
+Nalgonda,Miryalaguda(NSP Camp),Cauliflower,1.1,25,20
+Nalgonda,Miryalaguda(NSP Camp),Cabbage,1.6,25,20
+Nalgonda,Miryalaguda(NSP Camp),Carrot,1.4,50,40
+Nalgonda,Miryalaguda(NSP Camp),Donda,3.8,25,20
+Nalgonda,Miryalaguda(NSP Camp),Potato,13.3,35,30
+Nalgonda,Miryalaguda(NSP Camp),Onions-I,13.7,65,60
+Nalgonda,Miryalaguda(NSP Camp),Cluster Beans,2.7,40,35
+Nalgonda,Miryalaguda(NSP Camp),Cucumber,7,25,20
+Nalgonda,Miryalaguda(NSP Camp),Bottle Gourd,2.1,12,10
+Nalgonda,Miryalaguda(NSP Camp),Snake Gourd,0,0,0
+Nalgonda,Miryalaguda(NSP Camp),Aratikaya,0,0,0
+Nalgonda,Miryalaguda(NSP Camp),Field Beans,0,0,0
+Nalgonda,Miryalaguda(NSP Camp),Colocasia(Chama),0,0,0
+Nalgonda,Miryalaguda(NSP Camp),Mulagakada,0,0,0
+Nalgonda,Miryalaguda(NSP Camp),Leafy Vegetables,15.5,12,10
+Nalgonda,Miryalaguda(NSP Camp),Kanda,0,0,0
+Nalgonda,Miryalaguda(NSP Camp),Beet Root,0,0,0
+Nalgonda,Miryalaguda(NSP Camp),Keera,0,0,0
+Nalgonda,Miryalaguda(NSP Camp),French Beans,0,0,0
+Nalgonda,Miryalaguda(NSP Camp),Others,13.8,24,20
+Nalgonda,Miryalaguda(NSP Camp),Rice,0,0,0
+Nalgonda,Miryalaguda(NSP Camp),Tomato-618,0,0,0
+Nalgonda,Miryalaguda(NSP Camp),Onions-II,0,0,0
+Suryapet,Suryapet,Tomato,2.6,35,30
+Suryapet,Suryapet,Brinjal,2.7,35,30
+Suryapet,Suryapet,Bhendi,2.8,30,25
+Suryapet,Suryapet,Green Chillies,2.4,55,50
+Suryapet,Suryapet,Bitter  Gourd,1.7,40,35
+Suryapet,Suryapet,Ribbed Gourd,2,45,40
+Suryapet,Suryapet,Cauliflower,0,0,0
+Suryapet,Suryapet,Cabbage,1,35,30
+Suryapet,Suryapet,Carrot,1,55,50
+Suryapet,Suryapet,Donda,2.4,35,30
+Suryapet,Suryapet,Potato,2,35,30
+Suryapet,Suryapet,Onions-I,0,0,0
+Suryapet,Suryapet,Cluster Beans,2,40,35
+Suryapet,Suryapet,Cucumber,1.4,35,30
+Suryapet,Suryapet,Bottle Gourd,1.3,25,20
+Suryapet,Suryapet,Snake Gourd,0,0,0
+Suryapet,Suryapet,Aratikaya,0,0,0
+Suryapet,Suryapet,Field Beans,0,0,0
+Suryapet,Suryapet,Colocasia(Chama),0,0,0
+Suryapet,Suryapet,Mulagakada,0,0,0
+Suryapet,Suryapet,Leafy Vegetables,1.7,40,35
+Suryapet,Suryapet,Kanda,0,0,0
+Suryapet,Suryapet,Beet Root,0,0,0
+Suryapet,Suryapet,Keera,0,0,0
+Suryapet,Suryapet,French Beans,0,0,0
+Suryapet,Suryapet,Others,13,40,35
+Suryapet,Suryapet,Rice,0,0,0
+Suryapet,Suryapet,Tomato-618,0,0,0
+Suryapet,Suryapet,Onions-II,0,0,0
+Badradri (Kothagudem),Palvancha,Tomato,2,50,40
+Badradri (Kothagudem),Palvancha,Brinjal,1,40,30
+Badradri (Kothagudem),Palvancha,Bhendi,1,40,30
+Badradri (Kothagudem),Palvancha,Green Chillies,2,65,60
+Badradri (Kothagudem),Palvancha,Bitter  Gourd,1,50,40
+Badradri (Kothagudem),Palvancha,Ribbed Gourd,1,50,40
+Badradri (Kothagudem),Palvancha,Cauliflower,0,0,0
+Badradri (Kothagudem),Palvancha,Cabbage,2,50,40
+Badradri (Kothagudem),Palvancha,Carrot,1,65,60
+Badradri (Kothagudem),Palvancha,Donda,2,40,30
+Badradri (Kothagudem),Palvancha,Potato,2,40,35
+Badradri (Kothagudem),Palvancha,Onions-I,1,65,60
+Badradri (Kothagudem),Palvancha,Cluster Beans,1,50,40
+Badradri (Kothagudem),Palvancha,Cucumber,1,40,30
+Badradri (Kothagudem),Palvancha,Bottle Gourd,2,30,20
+Badradri (Kothagudem),Palvancha,Snake Gourd,1,30,20
+Badradri (Kothagudem),Palvancha,Aratikaya,1,15,10
+Badradri (Kothagudem),Palvancha,Field Beans,1,85,80
+Badradri (Kothagudem),Palvancha,Colocasia(Chama),1,60,50
+Badradri (Kothagudem),Palvancha,Mulagakada,1,10,6
+Badradri (Kothagudem),Palvancha,Leafy Vegetables,2,10,6
+Badradri (Kothagudem),Palvancha,Kanda,1,60,50
+Badradri (Kothagudem),Palvancha,Beet Root,1,60,50
+Badradri (Kothagudem),Palvancha,Keera,1,50,40
+Badradri (Kothagudem),Palvancha,French Beans,0,0,0
+Badradri (Kothagudem),Palvancha,Others,2,8,5
+Badradri (Kothagudem),Palvancha,Rice,0,0,0
+Badradri (Kothagudem),Palvancha,Tomato-618,0,0,0
+Badradri (Kothagudem),Palvancha,Onions-II,0,0,0
+Medchal (Malkajgiri),Yellammabanda,Tomato,5,24,19
+Medchal (Malkajgiri),Yellammabanda,Brinjal,1,18,13
+Medchal (Malkajgiri),Yellammabanda,Bhendi,1,34,28
+Medchal (Malkajgiri),Yellammabanda,Green Chillies,2,40,35
+Medchal (Malkajgiri),Yellammabanda,Bitter  Gourd,1,25,20
+Medchal (Malkajgiri),Yellammabanda,Ribbed Gourd,1,28,23
+Medchal (Malkajgiri),Yellammabanda,Cauliflower,1,24,18
+Medchal (Malkajgiri),Yellammabanda,Cabbage,2,15,11
+Medchal (Malkajgiri),Yellammabanda,Carrot,1,32,27
+Medchal (Malkajgiri),Yellammabanda,Donda,1,18,13
+Medchal (Malkajgiri),Yellammabanda,Potato,2,25,21
+Medchal (Malkajgiri),Yellammabanda,Onions-I,1,45,35
+Medchal (Malkajgiri),Yellammabanda,Cluster Beans,1,28,23
+Medchal (Malkajgiri),Yellammabanda,Cucumber,1,18,13
+Medchal (Malkajgiri),Yellammabanda,Bottle Gourd,1,10,7
+Medchal (Malkajgiri),Yellammabanda,Snake Gourd,0,15,11
+Medchal (Malkajgiri),Yellammabanda,Aratikaya,1,12,9
+Medchal (Malkajgiri),Yellammabanda,Field Beans,1,60,55
+Medchal (Malkajgiri),Yellammabanda,Colocasia(Chama),0,42,37
+Medchal (Malkajgiri),Yellammabanda,Mulagakada,0,65,55
+Medchal (Malkajgiri),Yellammabanda,Leafy Vegetables,1,25,20
+Medchal (Malkajgiri),Yellammabanda,Kanda,0,55,50
+Medchal (Malkajgiri),Yellammabanda,Beet Root,1,30,25
+Medchal (Malkajgiri),Yellammabanda,Keera,1,28,23
+Medchal (Malkajgiri),Yellammabanda,French Beans,0,60,55
+Medchal (Malkajgiri),Yellammabanda,Others,1,25,20
+Medchal (Malkajgiri),Yellammabanda,Rice,0,0,0
+Medchal (Malkajgiri),Yellammabanda,Tomato-618,0,0,0
+Medchal (Malkajgiri),Yellammabanda,Onions-II,0,0,0
+Narayanpet,Narayanpet,Tomato,5.1,32,30
+Narayanpet,Narayanpet,Brinjal,8.1,52,50
+Narayanpet,Narayanpet,Bhendi,4.1,42,40
+Narayanpet,Narayanpet,Green Chillies,3.1,62,60
+Narayanpet,Narayanpet,Bitter  Gourd,1.1,82,80
+Narayanpet,Narayanpet,Ribbed Gourd,7.1,72,70
+Narayanpet,Narayanpet,Cauliflower,0,0,0
+Narayanpet,Narayanpet,Cabbage,0,0,0
+Narayanpet,Narayanpet,Carrot,0,0,0
+Narayanpet,Narayanpet,Donda,2.1,62,60
+Narayanpet,Narayanpet,Potato,1.1,42,40
+Narayanpet,Narayanpet,Onions-I,4.5,65,60
+Narayanpet,Narayanpet,Cluster Beans,4.2,52,50
+Narayanpet,Narayanpet,Cucumber,0,0,0
+Narayanpet,Narayanpet,Bottle Gourd,0,0,0
+Narayanpet,Narayanpet,Snake Gourd,0,0,0
+Narayanpet,Narayanpet,Aratikaya,0,0,0
+Narayanpet,Narayanpet,Field Beans,2.5,62,60
+Narayanpet,Narayanpet,Colocasia(Chama),0,0,0
+Narayanpet,Narayanpet,Mulagakada,0,0,0
+Narayanpet,Narayanpet,Leafy Vegetables,7.2,25,20
+Narayanpet,Narayanpet,Kanda,0,0,0
+Narayanpet,Narayanpet,Beet Root,0,0,0
+Narayanpet,Narayanpet,Keera,0,0,0
+Narayanpet,Narayanpet,French Beans,0,0,0
+Narayanpet,Narayanpet,Others,8.1,150,130
+Narayanpet,Narayanpet,Rice,0,0,0
+Narayanpet,Narayanpet,Tomato-618,0,0,0
+Narayanpet,Narayanpet,Onions-II,0,0,0
+Rangareddy,Chevella,Tomato,0,0,0
+Rangareddy,Chevella,Brinjal,0,0,0
+Rangareddy,Chevella,Bhendi,0,0,0
+Rangareddy,Chevella,Green Chillies,0,0,0
+Rangareddy,Chevella,Bitter  Gourd,0,0,0
+Rangareddy,Chevella,Ribbed Gourd,0,0,0
+Rangareddy,Chevella,Cauliflower,0,0,0
+Rangareddy,Chevella,Cabbage,0,0,0
+Rangareddy,Chevella,Carrot,0,0,0
+Rangareddy,Chevella,Donda,0,0,0
+Rangareddy,Chevella,Potato,0,0,0
+Rangareddy,Chevella,Onions-I,0,0,0
+Rangareddy,Chevella,Cluster Beans,0,0,0
+Rangareddy,Chevella,Cucumber,0,0,0
+Rangareddy,Chevella,Bottle Gourd,0,0,0
+Rangareddy,Chevella,Snake Gourd,0,0,0
+Rangareddy,Chevella,Aratikaya,0,0,0
+Rangareddy,Chevella,Field Beans,0,0,0
+Rangareddy,Chevella,Colocasia(Chama),0,0,0
+Rangareddy,Chevella,Mulagakada,0,0,0
+Rangareddy,Chevella,Leafy Vegetables,0,0,0
+Rangareddy,Chevella,Kanda,0,0,0
+Rangareddy,Chevella,Beet Root,0,0,0
+Rangareddy,Chevella,Keera,0,0,0
+Rangareddy,Chevella,French Beans,0,0,0
+Rangareddy,Chevella,Others,0,0,0
+Rangareddy,Chevella,Rice,0,0,0
+Rangareddy,Chevella,Tomato-618,0,0,0
+Rangareddy,Chevella,Onions-II,0,0,0
