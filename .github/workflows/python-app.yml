@@ -7,6 +7,15 @@ on:
   schedule:
     - cron: '0 16 * * *'
 
+  workflow_dispatch:
+    inputs:
+      module :
+        type : choice
+        description: 'Run workflow'
+        options :
+         - 'Build'
+        required: true
+
 
 permissions:
   contents: read
@@ -14,6 +23,7 @@ permissions:
 jobs:
     Daily_Update:
       runs-on: ubuntu-latest
+      if: inputs.module == 'Build'
 
       steps:
         - uses: actions/checkout@v3
