@@ -41,13 +41,14 @@ jobs:
         - name : Upload Artifact
           uses: actions/upload-artifact@v3
           with:
-            name: my-artifact
-            path: ${{ github.workspace }}/prices_report.csv
+            name: daily_report
+            path: ${{ github.workspace }}/*.csv
+            retention-days: 7
         
         - name : Download Artifact
           uses: actions/download-artifact@v3
           with: 
-            name: my-artifact
+            name: daily_report
 
         
 
