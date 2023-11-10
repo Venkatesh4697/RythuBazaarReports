@@ -11,7 +11,7 @@ permissions:
   contents: read
 
 jobs:
-    Daily Update:
+    Daily_Update:
       runs-on: ubuntu-latest
 
       steps:
