@@ -23,8 +23,6 @@ permissions:
 jobs:
     Daily_Update:
       runs-on: ubuntu-latest
-      if: inputs.module == 'Build'
-
       steps:
         - uses: actions/checkout@v3
 
