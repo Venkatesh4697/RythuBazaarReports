@@ -34,7 +34,7 @@ jobs:
     - name: Upload Artifacts
       uses: actions/upload-artifact@v3
       with:
-            name: daily_report
+            name: weekly_report
             path: ${{ github.workspace }}/*.csv
             retention-days: 7
       
