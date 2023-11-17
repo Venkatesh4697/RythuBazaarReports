@@ -49,10 +49,8 @@ jobs:
             retention-days: 7
     - name: Update yaml file
       run: |
-        sed -i 's/fromDate: [^ ]*/tag: "${{inputs.from_date}}"/g' ${{github.workspace}}/config/values.yaml
-        sed -i 's/toDate: [^ ]*/tag: "${{inputs.from_date}}"/g' ${{github.workspace}}/config/values.yaml
-        cat ${{github.workspace}}/config/values.yaml
-      
+        cat ${{github.workspace}}/config/values.yaml | yq -Y '.dates = {"fromDate": "${{inputs.from_date}}"}'
+        cat ${{github.workspace}}/config/values.yaml | yq -Y '.dates = {"toDate": "${{inputs.to_date}}"}'
     - name: Download Artifact
       uses: actions/download-artifact@v3
       with: 
