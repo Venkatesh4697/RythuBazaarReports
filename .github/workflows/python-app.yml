@@ -4,10 +4,6 @@
 name: Python application
 
 on:
-  push:
-    branches: [ "rbzts_weekly_reports_change" ]
-  pull_request:
-    branches: [ "rbzts_weekly_reports_change" ]
   workflow_dispatch:
     inputs:
       module :
