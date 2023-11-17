@@ -12,6 +12,12 @@ on:
         options :
          - 'Build'
         required: true
+      from_date:
+        type: string
+        description: 'Enter From Date'
+      to_date:
+        type: string
+        description: 'Enter To Date'
 
 permissions:
   contents: read
