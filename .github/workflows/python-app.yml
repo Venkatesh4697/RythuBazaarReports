@@ -39,8 +39,8 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Update yaml file
       run: |
-        sed -i 's|fromDate: [^ ]*|tag: "${{inputs.from_date}}"|g' ${{github.workspace}}/config/values.yaml
-        sed -i 's|toDate: [^ ]*|tag: "${{inputs.from_date}}"|g' ${{github.workspace}}/config/values.yaml
+        sed -i 's|fromDate: [^ ]*|fromDate: "${{inputs.from_date}}"|g' ${{github.workspace}}/config/values.yaml
+        sed -i 's|toDate: [^ ]*|toDate: "${{inputs.to_date}}"|g' ${{github.workspace}}/config/values.yaml
         cat ${{github.workspace}}/config/values.yaml
     - name: Build & run
       run: |
