@@ -37,6 +37,11 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Update yaml file
+      run: |
+        sed -i 's|fromDate: [^ ]*|tag: "${{inputs.from_date}}"|g' ${{github.workspace}}/config/values.yaml
+        sed -i 's|toDate: [^ ]*|tag: "${{inputs.from_date}}"|g' ${{github.workspace}}/config/values.yaml
+        cat ${{github.workspace}}/config/values.yaml
     - name: Build & run
       run: |
         python main.py
@@ -47,11 +52,6 @@ jobs:
             name: weekly_report
             path: ${{ github.workspace }}/*.csv
             retention-days: 7
-    - name: Update yaml file
-      run: |
-        sed -i 's|fromDate: [^ ]*|tag: "${{inputs.from_date}}"|g' ${{github.workspace}}/config/values.yaml
-        sed -i 's|toDate: [^ ]*|tag: "${{inputs.from_date}}"|g' ${{github.workspace}}/config/values.yaml
-        cat ${{github.workspace}}/config/values.yaml
     - name: Download Artifact
       uses: actions/download-artifact@v3
       with: 
