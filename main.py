@@ -128,8 +128,9 @@ def get_prices_tsmarketing():
                             if child.get('rowspan') is not None:
                                 rowspan = int(child.get('rowspan')) - 1
                                 item = child.text.strip()
-                        if child.getText() != '\n':
                             prices.append(child.text.strip())
+                        #if child.getText() != '\n':
+
 
                 it = iterutils.chunked(prices, 8)
                 date = datetime.strptime(i, '%d-%m-%Y')
