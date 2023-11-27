@@ -26,6 +26,8 @@ def get_prices_rbzts():
                 prime_service = yaml.safe_load(file)
                 from_date = datetime.strptime(prime_service['dates']['fromDate'], "%d/%m/%Y")
                 to_date = datetime.strptime(prime_service['dates']['toDate'], "%d/%m/%Y")
+                if to_date.date() > datetime.today().date() or from_date.date() > datetime.today().date() :
+                    return "Rbzts Scrape ERROR - From-Date/To-Date cannot be a FUTURE date!"
                 days = abs((from_date - to_date).days) + 1
 
                 for x in range(days):
@@ -83,11 +85,12 @@ def get_prices_tsmarketing():
         try:
             with open('config/values.yaml', 'r') as file:
                 prime_service = yaml.safe_load(file)
-                from_date = str(prime_service['dates']['fromDate'])
-                to_date = str(prime_service['dates']['toDate'])
+                from_date = datetime.strptime(prime_service['dates']['fromDate'], "%d/%m/%Y")
+                to_date = datetime.strptime(prime_service['dates']['toDate'], "%d/%m/%Y")
 
-            dates = date_range_list(datetime.strptime(from_date, '%d/%m/%Y'),
-                                    datetime.strptime(to_date, '%d/%m/%Y'))
+            if to_date.date() > datetime.today().date() or from_date.date() > datetime.today().date():
+                return "TsMarketing Scrape ERROR - From-Date/To-Date cannot be a FUTURE date!"
+            dates = date_range_list(from_date,to_date)
 
             for strdate in dates:
                 lst_dates.append(strdate.date().strftime('%d-%m-%Y'))
