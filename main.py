@@ -8,7 +8,6 @@ import csv
 
 def url_ok(url):
     r = requests.head(url)
-    # print(r.status_code)
     return r.status_code
 
 
@@ -16,7 +15,7 @@ def get_prices_rbzts():
     url = "http://183.82.5.184/rbzts/DailyPrices.aspx"
     status_code = url_ok(url)
     if status_code == 503 or status_code == 502 or status_code == 504 or status_code == 500:
-        return "Rbzts Service/Website is currently DOWN or not available"
+        return "SCRAPE FAILED! Rbzts Service/Website is currently DOWN or not available"
     else:
         try:
             req = requests.get(url)
@@ -49,7 +48,7 @@ def get_prices_tsmarketing():
     url = "http://tsmarketing.in/DailyArrivalsnPricesCommoditywise.aspx"
     status_code = url_ok(url)
     if status_code == 503 or status_code == 502 or status_code == 504 or status_code == 500:
-        return "TsMarketing Service/Website is currently not available"
+        return "SCRAPE FAILED! TsMarketing Service/Website is currently not available"
     else:
         try:
             req = requests.get(url)
@@ -84,6 +83,45 @@ def get_prices_tsmarketing():
             return str(e)
 
 
+def get_prices_tsmarketing_marketwise():
+    url = "http://tsmarketing.in/DailyArrivalsnPrices.aspx"
+    status_code = url_ok(url)
+    if status_code == 503 or status_code == 502 or status_code == 504 or status_code == 500:
+        return "SCRAPE FAILED! TsMarketing Service/Website is currently not available"
+    else:
+        try:
+            req = requests.get(url)
+
+            soup = BeautifulSoup(req.content, "html.parser")
+            table = soup.find(
+                lambda tag: tag.name == 'table' and tag.has_attr('id') and tag[
+                    'id'] == "ContentPlaceHolder1_GridView1")
+            rows = table.findAll(lambda tag: tag.name == 'tr')
+            prices = []
+            rowspan = 0
+            item = ''
+
+            for td in rows:
+                if rowspan > 0:
+                    prices.append(item)
+                    rowspan = rowspan - 1
+                for child in td.children:
+                    if child.getText() != '\n':
+                        if child.get('rowspan') is not None:
+                            rowspan = int(child.get('rowspan')) - 1
+                            item = child.text.strip()
+                        prices.append(child.text.strip())
+
+            it = iterutils.chunked(prices, 8)
+            date = str(datetime.today().strftime('%Y%m%d'))
+            with(open('tsmarketing_marketwise_prices_report_' + date + '.csv', 'w', newline='')) as csvfile:
+                writer = csv.writer(csvfile)
+                writer.writerows(it)
+            return "Scrape Success. File generated: " + str(csvfile.name)
+        except Exception as e:
+            return str(e)
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     rbzts_response = get_prices_rbzts()
@@ -91,5 +129,8 @@ if __name__ == '__main__':
 
     tsmarketing_response = get_prices_tsmarketing()
     print(tsmarketing_response)
+
+    tsmarketing_marketwise_response = get_prices_tsmarketing_marketwise()
+    print(tsmarketing_marketwise_response)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
