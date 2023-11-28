@@ -4,11 +4,6 @@
 name: Python application
 
 on:
-  schedule:
-    - cron: '0 16 * * *'
-  push:
-    branches:
-      - 'rbzts_weekly_reports_change'
   workflow_dispatch:
     inputs:
       module :
