@@ -55,7 +55,7 @@ jobs:
           with:
             name: daily_report
             path: ${{ github.workspace }}/*.csv
-            retention-days: 7
+            retention-days: 10
         
         - name : Download Artifact
           uses: actions/download-artifact@v3
